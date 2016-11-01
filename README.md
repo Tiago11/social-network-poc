@@ -5,4 +5,6 @@ Inside the __files__ folder you can find an **Ipython notebook** that shows the 
 
 There is also some statistics about the number of lines/scenes and the dialogues of the characters.
 
-If you want to see all the results, I made a Medium post with them: ##LINK TO MEDIUM##
+If you want to see all the results, I made a Medium post with them:   
+
+[Social networks from movie scripts - Part 1](https://medium.com/@tiago.paez11/social-networks-from-movie-scripts-part-1-eed0fd44741#.r4rhtora8)
